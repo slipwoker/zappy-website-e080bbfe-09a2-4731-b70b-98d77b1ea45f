@@ -1,0 +1,57 @@
+# ד"ר לילך כהן — Generative Engine Optimization Map
+
+> A רפואה ובריאות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-e080bbfe.zappy5.app
+ד"ר לילך כהן מציעה רפואת נשים פרטית מקצועית עם שירות אישי. קבעי תור עוד היום ותהני מטיפול רפואי ברמה הגבוהה ביותר.
+
+### שירותים
+https://-e080bbfe.zappy5.app/services
+ד"ר לילך כהן מציעה מגוון שירותי רפואת נשים פרטית: סקירת מערכות בהריון, טיפול בגיל המעבר, בדיקות גינקולוגיות ועוד. שירות מקצועי ואישי.
+
+### אודות
+https://-e080bbfe.zappy5.app/about
+הכירי את ד"ר לילך כהן, רופאת נשים פרטית מנוסה המתמחה בטיפול בגיל המעבר, סקירת מערכות בהריון ורפואת נשים מקיפה. שירות אישי ומקצועי.
+
+### צור קשר
+https://-e080bbfe.zappy5.app/contact
+צרי קשר עם ד"ר לילך כהן לקביעת תור במרפאה הפרטית. רופאת נשים פרטית זמינה לשירותך עם תורים גמישים ושירות מקצועי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e080bbfe.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e080bbfe.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e080bbfe.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ד"ר לילך כהן
+ד"ר לילך כהן is a business in the רפואה ובריאות industry.
+
+## Target Audience
+נשים המחפשות טיפול רפואי פרטי ומקצועי
+
+## Industry
+רפואה ובריאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e080bbfe.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e080bbfe.zappy5.app/robots.txt
